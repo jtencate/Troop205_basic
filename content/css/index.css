@@ -1,0 +1,36 @@
+body {
+    font-family: 'Tahoma';
+    background-color: #c2be99;
+}
+.header {
+    background-color: rgb(3, 71, 18);
+    font-family:'Roboto Slab', serif !important;
+    text-transform: uppercase;
+    color: white;
+    border-radius:12px !important;
+    text-align:center;
+}
+
+.footer {
+    background-color: rgb(3, 71, 18);
+    color: white;
+    text-align: center;
+    font-family:'Roboto Slab', serif !important;
+}
+
+.main {
+    font-family:'Roboto Slab', serif !important;
+    background-color: #c2be99;  
+}
+
+source {
+    display: block;
+}
+
+@media screen and (min-width: 768px)
+{
+    .container .jumbotron, .container-fluid .jumbotron {
+    padding-right: 60px;
+    padding-left: 60px;
+    }
+}

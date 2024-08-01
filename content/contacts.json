@@ -1,0 +1,16 @@
+{
+    "contacts": [
+        {
+        "name": "Brett Alexander",
+        "email": "",
+        "phone": "123-456-7890",
+        "position": "ScoutMaster"
+        },
+        {
+        "name": "John Ten Cate",
+        "email": "jtencate@gmail.com",
+        "phone": "(317) 748-4474",
+        "position": "Assistant ScoutMaster"
+        }  
+    ]      
+}
